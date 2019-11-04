@@ -1,1 +1,2 @@
 Hello world
+Now changing the file to be comitted again.
